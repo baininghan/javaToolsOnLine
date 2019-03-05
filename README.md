@@ -85,3 +85,9 @@ Java development tools commonly used online
 [TCP/UDP常见端口参考](http://tool.oschina.net/commons?type=7)
 [HTML转义字符](http://tool.oschina.net/commons?type=2)
 [RGB颜色参考](http://tool.oschina.net/commons?type=3)
+
+
+### 格式转换
+[JMESPath提取](https://www.rdtoc.com/tools/jmespath)
+[JSONPath提取](https://www.rdtoc.com/tools/jsonpath)
+[表格转换工具](https://tableconvert.com/)
